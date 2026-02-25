@@ -72,7 +72,6 @@ Access all important project files instantly:
 - 📘 **Jupyter Notebook:** [Bank Loan Analysis.ipynb](./Bank%20Loan%20Analysis.ipynb)
 - 📂 **Dataset:** [Bank_loan_data.csv](./Bank_loan_data.csv)
 - 🖼️ **Visualization Images:** [Images Folder](./images/)
-- 📊 **GitHub Repository:** [Bank-Loan-Analysis-Python](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)
 
 ---
 
@@ -312,11 +311,7 @@ By improving risk control and portfolio balance, the bank can **increase profits
 
 ---
 
-## 🧑‍💻 Author
 
-**👤 Harsh Belekar**  
-📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
-📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
 
