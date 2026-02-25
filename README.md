@@ -23,9 +23,7 @@ This project uses **Python (Pandas, Matplotlib, Seaborn)** for data cleaning, KP
 - [🏦 Business Recommendations](#-business-recommendations)
 - [🧾 Final Conclusion: Loan Portfolio Risk & Strategy](#-final-conclusion-loan-portfolio-risk--strategy-)
 - [📁 Project Structure](#-project-structure)
-- [🧑‍💻 Author](#-author)
 
----
 
 ## 📌 Business Problem / Problem Statement
 
