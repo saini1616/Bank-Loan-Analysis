@@ -307,14 +307,4 @@ By improving risk control and portfolio balance, the bank can **increase profits
 │ └── 13_Total_Amount_Received_by_Home_Ownership.png
 │
 └── README.md                     # Project documentation
-```
 
----
-
-
-
-📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
-
----
-
-⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!* 
